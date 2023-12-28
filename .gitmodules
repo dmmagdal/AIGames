@@ -1,0 +1,3 @@
+[submodule "HaliteRL"]
+	path = HaliteRL
+	url = https://github.com/dmmagdal/HaliteRL
