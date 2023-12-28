@@ -13,6 +13,26 @@ Description: This repo connects to other repos I have (along with their last upd
      - Challenge Home: https://terminal.c1games.com/home
      - Status:
          - Not started.
+ - [ScreepsAI](https://github.com/dmmagdal/ScreepsAI): Plays the game screeps from Screeps LLC.
+     - Challenge Home: https://screeps.com/
+     - Status:
+         - Not started.
+ - [YareAI](https://github.com/dmmagdal/YareAI): Plays the game from yare.io.
+     - Challenge Home: https://yare.io/
+     - Status:
+         - Not started.
+ - [KaggleSimulationsAI](https://github.com/dmmagdal/KaggleSimulationsAI): Plays the games from Kaggle Simulations.
+     - Challenge Home: https://www.kaggle.com/simulations
+     - Status:
+         - Not started.
+ - [BattlenakeAI](https://github.com/dmmagdal/BattlesnakeAI): Plays the Battlesnake game.
+     - Challenge Home: https://play.battlesnake.com/
+     - Status:
+         - Not started.
+ - [LuxAI](https://github.com/dmmagdal/LuxAI): Plays the Lux AI game from Lux AI Challenge.
+     - Challenge Home: https://www.kaggle.com/c/lux-ai-2021
+     - Status:
+         - Not started.
 
 
 ### References:

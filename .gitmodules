@@ -4,3 +4,18 @@
 [submodule "TerminalAI"]
 	path = TerminalAI
 	url = https://github.com/dmmagdal/TerminalAI
+[submodule "ScreepsAI"]
+	path = ScreepsAI
+	url = https://github.com/dmmagdal/ScreepsAI
+[submodule "LuxAI"]
+	path = LuxAI
+	url = https://github.com/dmmagdal/LuxAI
+[submodule "YareAI"]
+	path = YareAI
+	url = https://github.com/dmmagdal/YareAI
+[submodule "BattlesnakeAI"]
+	path = BattlesnakeAI
+	url = https://github.com/dmmagdal/BattlesnakeAI
+[submodule "KaggleSimulationsAI"]
+	path = KaggleSimulationsAI
+	url = https://github.com/dmmagdal/KaggleSimulationsAI
