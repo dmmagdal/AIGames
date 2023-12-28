@@ -1,3 +1,6 @@
 [submodule "HaliteRL"]
 	path = HaliteRL
 	url = https://github.com/dmmagdal/HaliteRL
+[submodule "TerminalAI"]
+	path = TerminalAI
+	url = https://github.com/dmmagdal/TerminalAI
