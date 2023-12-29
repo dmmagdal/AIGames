@@ -25,12 +25,13 @@ Description: This repo connects to other repos I have (along with their last upd
      - Challenge Home: https://www.kaggle.com/simulations
      - Status:
          - Not started.
- - [BattlenakeAI](https://github.com/dmmagdal/BattlesnakeAI): Plays the Battlesnake game.
+ - [BattlesnakeAI](https://github.com/dmmagdal/BattlesnakeAI): Plays the Battlesnake game.
      - Challenge Home: https://play.battlesnake.com/
      - Status:
          - Not started.
  - [LuxAI](https://github.com/dmmagdal/LuxAI): Plays the Lux AI game from Lux AI Challenge.
-     - Challenge Home: https://www.kaggle.com/c/lux-ai-2021
+     - Challenge Home (Season 1): https://www.kaggle.com/c/lux-ai-2021
+     - Challenge Home (Season 2): https://www.kaggle.com/competitions/lux-ai-season-2-neurips-stage-2
      - Status:
          - Not started.
 
