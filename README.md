@@ -13,32 +13,38 @@ Description: This repo connects to other repos I have (along with their last upd
  - [TerminalAI](https://github.com/dmmagdal/TerminalAI): Plays the game Terminal from Correlation One.
      - Challenge Home: https://terminal.c1games.com/home
      - Supports Local Games: Yes
+     - Supports Local Replay: No
      - Status:
          - Not started.
  - [ScreepsAI](https://github.com/dmmagdal/ScreepsAI): Plays the game screeps from Screeps LLC.
      - Challenge Home: https://screeps.com/
       - Supports Local Games: 
+     - Supports Local Replay: 
      - Status:
          - Not started.
  - [YareAI](https://github.com/dmmagdal/YareAI): Plays the game from yare.io.
      - Challenge Home: https://yare.io/
      - Supports Local Games: No
+     - Supports Local Replay: No
      - Status:
          - Not started.
  - [KaggleSimulationsAI](https://github.com/dmmagdal/KaggleSimulationsAI): Plays the games from Kaggle Simulations.
      - Challenge Home: https://www.kaggle.com/simulations
      - Supports Local Games: Yes
+     - Supports Local Replay: 
      - Status:
          - Not started.
  - [BattlesnakeAI](https://github.com/dmmagdal/BattlesnakeAI): Plays the Battlesnake game.
      - Challenge Home: https://play.battlesnake.com/
      - Supports Local Games: 
+     - Supports Local Replay: No
      - Status:
          - Not started.
  - [LuxAI](https://github.com/dmmagdal/LuxAI): Plays the Lux AI game from Lux AI Challenge.
      - Challenge Home (Season 1): https://www.kaggle.com/c/lux-ai-2021
      - Challenge Home (Season 2): https://www.kaggle.com/competitions/lux-ai-season-2-neurips-stage-2
      - Supports Local Games: Yes
+     - Supports Local Replay: Yes
      - Status:
          - Not started.
 
